@@ -7,4 +7,3 @@ related to those areas, and when checked, return possible "diagnoses".
 
 Not to be used in place of professional medical advice.
 
-https://getyarn.io/yarn-clip/73f6e6ca-2582-44f1-8edf-2df0d482937e
